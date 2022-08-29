@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753233818082",
+    "project_id": "ssmartcampus",
+    "storage_bucket": "ssmartcampus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753233818082:android:aa5c3732a676fba0f849bb",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753233818082-mvledk649kdq29drn7g41imj4k5rcv7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1ozCUfauqWYDITSe4jQxGdGCTgjllJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753233818082-mvledk649kdq29drn7g41imj4k5rcv7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753233818082-1mnm8ssseuu250n2ghan0fp0knn1s32v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
