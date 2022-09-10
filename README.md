@@ -5,5 +5,5 @@ This prototype was developped during the first edition of ESPOIR (Engineering St
 
 **Demo of the Application**
 
-https://user-images.githubusercontent.com/103124512/187309242-d3c3a156-3f3e-44f1-b878-4fa5da60651f.mp4
+https://user-images.githubusercontent.com/103124512/189499968-085c1431-1248-4eb8-83cb-02e110432a9c.mp4
 
